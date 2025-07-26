@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://devops-idaf.onrender.com/api';
+const API_BASE_URL = 'http://localhost:5000/api';
 
 // Get auth token from localStorage
 const getAuthToken = () => {
